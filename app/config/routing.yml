@@ -1,0 +1,4 @@
+nlemahieu_cms:
+    resource: "@nlemahieuCmsBundle/Resources/config/routing.yml"
+    prefix:   /
+
